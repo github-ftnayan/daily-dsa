@@ -1,4 +1,4 @@
-#// C++ Code to left rotate an array using Reversal Algorithm
+// C++ Code to left rotate an array using Reversal Algorithm
 
 #include <bits/stdc++.h>
 
