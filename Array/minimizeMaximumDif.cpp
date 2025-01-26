@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//initiaze vector anad actual
 int returnMinDiff(vector<int> &arr, int k){
     int n = arr.size();
     sort(arr.begin(), arr.end());
