@@ -9,7 +9,7 @@ vector<int> getLeaders(vector<int> &arr){
     int maxRight = arr[size - 1];
     res.push_back(maxRight);
 
-    for(int i = size - 2; i >= size; i--){
+    for(int i = size - 2; i >= 0; i--){
         if(arr[i] >= maxRight){
             maxRight = arr[i];
             res.push_back(arr[i]);
