@@ -16,7 +16,6 @@ vector<int> getLeaders(vector<int> &arr){
         }
     }
     reverse(res.begin(), res.end());
-
     return res;
 }
 
