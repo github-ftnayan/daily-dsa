@@ -26,6 +26,5 @@ int main(){
 
     for(auto& r: res)
         cout<< r << " ";
-
     return 0;
 }
